@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>0ECC400E-11C0-4668-936B-25153FDC41BC</string>
+			<string>5193D698-4392-494D-946B-7D9BF1B7C9CA</string>
+			<string>------------------------------------</string>
+			<string>337E803C-D45F-4F0C-BC35-E1B00530A794</string>
+			<string>------------------------------------</string>
+			<string>611AA1C6-633B-4BAB-B941-0E0F37673299</string>
+			<string>EE3408D4-BDCB-45BA-BED6-C0A4A9E0EC09</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Ruby Debug</string>
+	<key>ordering</key>
+	<array>
+		<string>0ECC400E-11C0-4668-936B-25153FDC41BC</string>
+		<string>5193D698-4392-494D-946B-7D9BF1B7C9CA</string>
+		<string>337E803C-D45F-4F0C-BC35-E1B00530A794</string>
+		<string>611AA1C6-633B-4BAB-B941-0E0F37673299</string>
+		<string>EE3408D4-BDCB-45BA-BED6-C0A4A9E0EC09</string>
+	</array>
+	<key>uuid</key>
+	<string>979720AB-F093-41A7-B859-C7BF22C1F79D</string>
+</dict>
+</plist>
